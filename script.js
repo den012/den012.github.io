@@ -11,7 +11,7 @@ window.onpointermove = event => {
 
 
 //text
-const letters = "!?#$%&ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
 let interval = null;
 
